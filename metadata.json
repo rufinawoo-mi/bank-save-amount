@@ -1,0 +1,6 @@
+{
+  "name": "금리계산기 — 예금·적금 이자 계산기",
+  "description": "정기예금과 정기적금의 만기 예상 금액, 15.4% 이자소득세, 실제 세후 수령액을 정확하게 계산하는 은행 이자 계산 프로그램",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
